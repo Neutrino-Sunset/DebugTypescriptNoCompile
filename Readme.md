@@ -9,7 +9,7 @@ Create a directory and initialise as a node project. Make the entrypoint a types
 
 Install required libraries.
 
-    > npm i typescript ts-node @types/node --save-dev
+    > npm i -D typescript ts-node @types/node
 
    * typescript - core typescript language support.
    * ts-node - node typescript support.
